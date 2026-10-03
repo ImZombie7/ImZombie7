@@ -1,7 +1,28 @@
 ## Extended "About Me" (I guess...)
-* Extra Skills: OS optimization, Backends, Automation, AI agentic ahh...
-* Experience: 7-8yrs with Computers, 5-6yrs in OS, 3-4yrs in Programming...
-* Main Language: JS
-* Languages I love: C, Java, Assembly, Rust
+>I'm just a teenager who got way too interested in computers and kept going...
+
+### Stuff I'm messing with:
+- OS optimization
+- Backends
+- Automation
+- AI agents
+- Low-level programming
+- Computer architecture
+- Random computer experiments that probably started with "I wonder if..."
+
+### Experience:
+
+- 7–8yrs with computers
+- 5–6yrs with operating systems
+- 3–4yrs programming
+
+### Languages:
+
+- Main language: JS
+- Languages I love: C, Java, Assembly, Rust
+
+### Currently:
+
+Mostly building things, breaking things, figuring out why I broke them, and occasionally fixing them.
+
 ---
->DOB: 19/12/2012
