@@ -1,5 +1,5 @@
 ## Extended "About Me" (I guess...)
->I'm just a teenager who got way too interested in computers and kept going...
+>Just another someone who got way too interested in computers and kept going...
 
 ### Stuff I'm messing with:
 - OS optimization
